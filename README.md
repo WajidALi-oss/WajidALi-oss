@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WajidALi
-- 👀 I’m interested in web development, Artificial Intelligence , Machine learning and new technologies
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in web development, Artificial Intelligence , Machine learning and new technologies.
 - 📫 You can reach me through email : @syedwajidali1010@gmail.com
 <!---
 WajidALi-oss/WajidALi-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
